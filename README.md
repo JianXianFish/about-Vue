@@ -205,6 +205,9 @@ css中写的background-img的路径出错 需要找到build文件夹下的utils.
 ![背景图片路径不对](https://raw.githubusercontent.com/ZHAO-Shaofeng/Related-considerations-for-HTML-CSS-JS/master/github-img/vue2.png)
 
 加入红框内字段即可
+```
+publicPath:'../../'
+```
 
 ### 8、使用jquery
 
